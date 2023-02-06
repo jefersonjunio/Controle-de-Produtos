@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ControleDeProdutos</string>
+    <string name="calculo">CALCULAR</string>
+    <string name="subtitulo">Marque o item e digite a quantidade:</string>
+    <string name="total">Valor Total R$:</string>
+
+</resources>
