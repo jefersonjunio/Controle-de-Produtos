@@ -3,3 +3,5 @@ Projeto simples de controle de produtos aplicando algumas técnicas do Android S
 - Checkbox
 - Navegação entre telas
 - Passagem por parâmetros
+- Toast
+- AlertDialog
